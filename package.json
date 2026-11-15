@@ -4,6 +4,11 @@
   "private": true,
   "description": "Split a restaurant bill with tax and tip between people",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "^7.11.281",
+    "vitest": "^5.1.0"
   }
 }
