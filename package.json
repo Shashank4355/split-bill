@@ -1,0 +1,9 @@
+{
+  "name": "split-bill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Split a restaurant bill with tax and tip between people",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
